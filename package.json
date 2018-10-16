@@ -1,0 +1,13 @@
+{
+	"name": "project-euler-ase",
+	"version": "1.0.0",
+	"description": "Project Euler problems in JS",
+	"main": "index.js",
+	"author": "xetoile",
+	"license": "ISC",
+	"dependencies": {
+		"bignumber.js": "^7.2.1",
+		"minimist": "^1.2.0",
+		"numbers2words": "^1.4.0"
+	}
+}
